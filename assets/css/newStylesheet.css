@@ -1,0 +1,32 @@
+#container{
+	width:100%;
+	min-height:500px;
+	margin:auto;
+	height:auto;
+    background:#FFFFFF;
+}
+
+#logo_area{
+	width:100%;
+	height:auto;
+	background:#ca0002;
+	float:left;
+	padding:5px 0;
+	margin-bottom:10px;
+}
+#logo_area_bottom{
+	width:100%;
+	height:auto;
+	background:#fff;
+	float:left;
+}
+#logo_area_bottom .left{
+	width:50%;
+	height:auto;
+	float:left;
+}
+#logo_area_bottom .right{
+	width:50%;
+	height:auto;
+	float:right;
+}

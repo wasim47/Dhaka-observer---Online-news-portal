@@ -1,0 +1,32 @@
+﻿.weatherFeed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	width: 100px;
+}
+.weatherFeed a { color: #888; }
+.weatherFeed a:hover {
+	color: #000;
+	text-decoration: none;
+}
+.weatherItem {
+	text-align: right;
+}
+.weatherCity { text-transform: uppercase; }
+.weatherTemp {
+	font-size: 2.8em;
+	font-weight: bold;
+}
+.weatherDesc, .weatherCity, .weatherForecastDay  { font-weight: bold; }
+.weatherDesc { margin-bottom: 0.4em; display:none;}
+.weatherRange, .weatherWind, .weatherLink, .weatherForecastItem { font-size: 0.8em; display:none;}
+.weatherLink, .weatherForecastItem {
+	text-align: left;
+	display:none;
+}
+.weatherForecastItem {
+	padding: 0.5em 0.5em 0.5em 80px;
+	background-color: #fff;
+	background-position: left center;
+}
+.weatherForecastDay { font-size: 1.1em; }
+

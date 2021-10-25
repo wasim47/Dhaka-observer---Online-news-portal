@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+.verticalslider {overflow: hidden; width: 100%; margin: 0 auto; margin-top: 0; }
+
+.verticalslider_contents{
+width:100%; display: inline; margin:0 0 3% 0; padding: 0px; 
+}
+.verticalslider_contents ul{
+width:100%; display: inline; margin: 0px; padding: 0px; 
+}
+.verticalslider_contents li{width:93.8%; margin:0%; padding: 0px; overflow: hidden; border:1px solid #333; position: absolute;}
+.verticalslider_contents li h2{font-family: Helvetica, Arial, sans-serif; font-size: 22px; color: #0660B8; font-weight:bold; margin: 5px 20px; padding: 0px;}
+.verticalslider_contents li p{ margin: 5px 20px; padding: 0px;font-family:Arial, Helvetica, sans-serif; font-size: 12px; }
+
+.verticalslider_contents .activeContent{ width:100% display: inline; border: 1px solid #FEAF16; border-radius: 10px; border-bottom-right-radius: 5px 5px;text-align:justify; padding-top:10px;}
+
+.verticalslider_contents.fixer{
+	padding-left:0; margin-left:0; 
+	position:absolute;
+	width:100%;
+	display:inline;
+}
+
+
+.verticalslider_contents li{ height:auto !important; padding: 0 12px 0 15px;}
+
+/*.verticalslider_contents fieldset{
+	background:none;
+}
+
+.verticalslider_contents fieldset legend{
+	background:none;
+	background-color: transparent;
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+	border:0;
+	font-weight: bold;
+	margin:0;
+	padding:8px 5px;
+}*/
+
+.v-nav{
+	background-position:0 2px;
+	background-repeat:no-repeat;
+	padding:4px 0 10px 30px;
+	z-index:100;
+	display:block;
+}
+
+.v-nav.btn-1{
+	background-image:url("../images/tools/nav-pointer.png");
+}
+
+.v-nav.btn-2{
+	background-image:url("../images/tools/nav-invoice.png");
+}
+
+.v-nav.btn-3{
+	background-image:url("../images/tools/nav-comments.png");
+}
+
+.v-nav.btn-4{
+	background-image:url("../images/tools/nav-user.png");
+}
+
+.v-nav.btn-5{
+	background-image:url("../images/tools/nav-vote.png");
+}
+
+.v-nav.btn-6{
+	background-image:url("../images/tools/nav-settings.png");
+}
+
+.v-nav.btn-7{
+	background-image:url("../images/tools/nav-set.png");
+}

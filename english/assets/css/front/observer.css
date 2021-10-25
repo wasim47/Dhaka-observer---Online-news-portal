@@ -1,0 +1,256 @@
+
+.title_2{
+	background: rgb(112,3,3); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(112,3,3,1) 0%, rgba(172,2,2,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(112,3,3,1)), color-stop(100%,rgba(172,2,2,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(112,3,3,1) 0%,rgba(172,2,2,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(112,3,3,1) 0%,rgba(172,2,2,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(112,3,3,1) 0%,rgba(172,2,2,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(112,3,3,1) 0%,rgba(172,2,2,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#700303', endColorstr='#ac0202',GradientType=0 ); /* IE6-9 */
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#FFF;
+	line-height:42px;
+	font-weight:bold;
+
+	
+	}
+	
+	
+.title_3{
+	font-family:"Book Antiqua", Arial;
+	font-size:13px;
+	color:#000;
+	
+	}
+	
+	
+.title_4{
+	font-family:"Book Antiqua", Arial;
+	font-size:24px;
+	color:#000;
+	
+	}
+	
+	
+.title_5{
+	font-family:"Book Antiqua", Arial;
+	font-size:17px;
+	color:#000;
+	font-weight:bold;
+	
+	}
+	
+	
+.title_6{
+	font-family:"Book Antiqua", Arial;
+	font-size:15px;
+	color:#000;
+	
+	}
+	
+	
+	
+.tex1{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000;
+	text-align:justify;
+	
+	}
+	
+	
+.mini_img_pad{
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	}
+	
+	
+	
+.bull_size{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	font-weight:bold;
+
+}
+
+
+
+.news_bld_tex{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	font-weight:bold;
+
+}
+
+
+
+.white_title{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#fff;
+
+}
+
+
+
+.img_frame{
+	width:auto;
+	height:auto;
+	padding:15px;
+	border: 1px #999 solid;
+	
+	}
+	
+	
+	
+.details_main_text{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	color:#000;
+	text-decoration:none;
+	text-align:justify;
+	
+	}
+	
+	
+	
+.comment_title{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+	
+	}
+	
+	
+.leave_field{
+	width:580px;
+	height:44px;
+	border:2px #CCC solid;
+	border-radius:5px;
+	font-size:18px;
+	color:#CCC;
+	padding-left:10px;
+	
+	}
+	
+	
+.com_menu{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#999;
+	
+	}
+	
+	
+	
+.bdr_top2{
+	border-top: 4px #CCC solid;
+	
+	}
+	
+	
+	
+.date_font{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000;
+	
+	}
+	
+	
+	
+.img_frame2{
+	width:auto;
+	height:auto;
+	padding:10px;
+	border: 1px #999 solid;
+	
+	}
+	
+	
+	
+.gallery_box{
+	box-shadow: 1px 1px 10px 5px rgba(221,221,221,0.8);
+	-webkit-box-shadow: 1px 1px 10px 5px rgba(221,221,221,0.8);
+	-moz-box-shadow: 1px 1px 10px 5px rgba(221,221,221,0.8);
+	width:217px;
+	height:247px;
+	
+	}
+	
+	
+.gallery_tex{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#444242;
+	text-align:justify;
+	
+	}
+	
+	
+	
+.more{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+	text-decoration:none;
+	
+	}
+	
+	
+.more a{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+	text-decoration:none;
+	
+	}
+	
+	
+.more a:hover{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#999;
+	text-decoration:underline;
+	
+	}
+	
+	
+	
+.round_btn{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#666;
+	border:1px #999 solid;
+	border-radius:5px;
+	text-decoration:none;
+	
+	}
+	
+	
+.round_btn a{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#666;
+	text-decoration:none;
+	
+	}
+	
+	
+.round_btn a:hover{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#666;
+	box-shadow: 1px 1px 10px 5px rgba(221,221,221,0.8);
+	box-shadow: 1px 1px 10px 5px rgba(221,221,221,1);
+	-webkit-box-shadow: 1px 1px 10px 5px rgba(221,221,221,1);
+	-moz-box-shadow: 1px 1px 10px 5px rgba(221,221,221,1);
+	}
+	
